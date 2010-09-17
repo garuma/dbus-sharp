@@ -1,7 +1,7 @@
 CSC=gmcs
 RUNNER=nunit-console2
 
-TESTS=AddressTest.cs AuthenticationTest.cs MatchRuleTest.cs ObjectPathTest.cs SignatureTest.cs BusTests.cs
+TESTS=AddressTest.cs AuthenticationTest.cs MatchRuleTest.cs ObjectPathTest.cs SignatureTest.cs MessageReaderTest.cs
 
 TESTLIB=dbus-sharp-tests.dll
 
