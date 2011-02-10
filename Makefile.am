@@ -1,4 +1,4 @@
-SUBDIRS = src tools examples
+SUBDIRS = src tools examples tests
 
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = dbus-sharp-1.0.pc
